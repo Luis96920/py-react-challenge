@@ -23,11 +23,11 @@ Ensure you have the following installed on your local machine:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/metricsnavigator-lab/challenge.git
+    git clone https://github.com/luis96920/py-react-challenge.git
     ```
 2. Change into the directory:
     ```
-    cd challenge
+    cd py-react-challenge
     ```
 
 ### Server
